@@ -17,6 +17,11 @@ header > div{
     font-size: 20px;
 }
 
+header > div > p{
+    padding-top: 10px;
+    font-size: 14px;
+}
+
 main > .picWindow{
     /* border: 1px solid; */
     height: 447px;
@@ -62,7 +67,7 @@ footer > .footer{
     /* border:1px solid rgb(74, 139, 0); */
     width: 922px;
     text-align: center;
-    padding: 30px 0px;
+    padding: 40px 0px;
     font-size: 14px;
 }
 
